@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Epilogue", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    max-width: 1300px;
+    margin: auto;
+}
+
+
+.btn {
+    background-color: #2d2d2d;
+    padding: 24px 64px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+}
+
+
+/* universal selector */
+
+
+/* HEADER */
+nav {
+    padding: 24px 0;
+}
+
+.logo {
+    width: 50%;
+}
+
+.menu {
+    width: 50%;
+    text-align: right;
+}
+
+.menu a {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 159%;
+    color: #2d2d2d;
+    margin-right: 24px;
+}
+
+.menu a:last-child {
+    margin-right: 0;
+}
+
+/* HEADER END */
+
+
+/* hero */
+#hero {
+    margin: 42px 0;
+    /* gap: 42px 0; */
+
+}
+
+.hero_text {
+    width: 60%;
+    color: #2d2d2d;
+}
+
+.hero_text strong {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.hero_text h1 {
+    font-weight: 600;
+    font-size: 68px;
+    margin: 24px 0;
+}
+
+.hero_text p {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 159%;
+    margin-bottom: 48px;
+}
+
+.hero_img {
+    width: 40%;
+    text-align: center;
+}
+
+/* hero end */
+
+/* logo bar */
+
+.logo_card {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.logo_card img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+/* logo bar end*/
+
+
+/* Service */
+
+#services{
+    margin: 42px 0;
+}
+.service_card {
+    text-align: center;
+    width: 33.33%;
+    color: #2d2d2d;
+}
+
+.service_card h2 {
+    margin: 42px 0 12px;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 156%;
+    text-align: center;
+}
+
+.service_card p {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 159%;
+    text-align: center;
+}
+
+/* Service end */
+/* work */
+
+#works {
+    margin: 42px 0;
+    
+}
+
+
+
+#works h2 {
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 156%;
+    text-align: center;
+    color: #2d2d2d;
+    margin-bottom: 42px;
+}
+
+.work_card {
+    width: 33.33%;
+    padding:12px;
+}
+
+.work_card img{
+    width: 100%;
+}
+.work_card h3{
+    margin-top: 24px;
+    margin-bottom: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+
+
+
+/* work end */
