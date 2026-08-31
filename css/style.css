@@ -185,7 +185,49 @@ nav {
     font-size: 20px;
     
 }
-
-
-
 /* work end */
+
+
+/* testimonial */ 
+
+#testimonial h2 {
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 156%;
+    text-align: center;
+    color: #2d2d2d;
+    margin-top: 42px;
+    margin-bottom: 42px;
+}
+#testimonial .row{
+    margin:12px;
+    justify-content: space-between;
+}
+.testimonial_card {
+    width: 31%;
+    padding: 42px;
+    margin: 12px;
+    background-color: #F3F3F3;
+    
+}
+
+.testimonial_card h3 {
+    color :#2d2d2d;
+    line-height: 140%;
+    margin-bottom: 60px;
+}
+
+.testimonial_author {
+    display: flex;
+    gap: 12px;
+}
+.author_img {
+    width: 18%;
+}
+.author_info {
+    width: 85%;
+}
+.author_info h3 {
+    margin-bottom:11px;
+}
+/* testimonial end*/ 
