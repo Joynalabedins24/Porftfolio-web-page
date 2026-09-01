@@ -2,6 +2,12 @@
 
 A modern personal portfolio landing page built with HTML and CSS. This project presents a clean visual design for a creative professional, including branding, services, featured work, testimonials, and a contact section.
 
+## Project Preview
+
+<p align="center">
+  <img src="./images/hero.png" alt="Portfolio website preview" width="900" />
+</p>
+
 ## Live Preview
 Open `index.html` in the browser to view the site locally.
 
@@ -12,7 +18,7 @@ Open `index.html` in the browser to view the site locally.
 - Latest works/projects gallery
 - Testimonial section
 - Contact section with form layout
-- Clean responsive layout for desktop and smaller screens   
+- Clean responsive layout for desktop and smaller screens
 
 ## Tech Stack
 - HTML5
