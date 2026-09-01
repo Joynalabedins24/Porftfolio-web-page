@@ -12,7 +12,7 @@ Open `index.html` in the browser to view the site locally.
 - Latest works/projects gallery
 - Testimonial section
 - Contact section with form layout
-- Clean responsive layout for desktop and smaller screens
+- Clean responsive layout for desktop and smaller screens   
 
 ## Tech Stack
 - HTML5
