@@ -1,56 +1,60 @@
 # Portfolio Website
 
-A clean and modern portfolio landing page built with HTML and CSS.
+A modern personal portfolio landing page built with HTML and CSS. This project presents a clean visual design for a creative professional, including branding, services, featured work, testimonials, and a contact section.
 
-## Project Overview
-This project is a personal portfolio website designed to showcase:
-- hero section
-- brand/logo section
-- services cards
-- latest works/projects
-- responsive layout for different screen sizes
+## Live Preview
+Open `index.html` in the browser to view the site locally.
 
-## Files Included
-- `index.html` — main HTML structure
-- `css/style.css` — styling for the layout and design
-- `images/` — all local image assets
+## Features
+- Hero section with branding message and call-to-action
+- Logo/brand showcase strip
+- Service cards
+- Latest works/projects gallery
+- Testimonial section
+- Contact section with form layout
+- Clean responsive layout for desktop and smaller screens
 
-## Preview
-Open `index.html` in your browser to view the website locally.
-
-## Technologies Used
+## Tech Stack
 - HTML5
 - CSS3
 - Google Fonts
+- Font Awesome Icons
 
-## Folder Structure
+## Project Structure
 ```text
 Portfolio/
 ├── index.html
 ├── css/
 │   └── style.css
 ├── images/
+│   ├── Logo.png
 │   ├── google.png
 │   ├── nike.png
 │   ├── samsung.png
 │   ├── apple.png
 │   ├── adidas.png
 │   ├── hero.png
+│   ├── Author.png
+│   ├── service_card1.png
+│   ├── service_card2.png
+│   ├── service_card3.png
 │   ├── project1.png
 │   ├── project2.png
 │   ├── project3.png
 │   ├── project4.png
 │   ├── project5.png
-│   ├── project6.png
-│   ├── service_card1.png
-│   ├── service_card2.png
-│   ├── service_card3.png
-│   └── logo.png
-└── README.md
+│   └── project6.png
+├── README.md
+└── .gitignore
 ```
+
+## How to Run
+1. Open the project folder.
+2. Double-click `index.html` or serve it with a local web server.
+3. View the page in your browser.
 
 ## Author
 Jisan
 
 ## License
-This project is for personal portfolio use.
+This project is intended for personal portfolio use and demonstration purposes.
