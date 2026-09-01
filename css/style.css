@@ -231,3 +231,88 @@ nav {
     margin-bottom:11px;
 }
 /* testimonial end*/ 
+
+/* contact */
+#contact {
+    margin: 42px 0;
+}
+
+#contact h2 {
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 156%;
+    color: #2d2d2d;
+    margin:12px 24px;
+}
+#contact .row{
+    
+    margin:12px 24px;
+    justify-content: space-between;
+}
+
+.contact_info,
+.contact_form {
+    width: 45%;
+}
+
+.contact_info p {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 139%;
+    margin-bottom: 42px;
+}
+
+.icons{
+    display: flex;
+    gap: 12px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.contact_form form {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    height: 100%;
+}
+
+.contact_form input {
+    width: 100%;
+    padding: 16px 24px;
+    border: none;
+    background: #e7e7e7;
+    font-family: "Epilogue", sans-serif;
+    font-size: 17px;
+    color: #2d2d2d;
+    line-height: 1.4;
+}
+
+.contact_form input::placeholder {
+    color: #2d2d2d;
+    opacity: .5;
+}
+
+.contact_form input:focus {
+    outline: none;
+    background: #e7e7e7;
+}
+
+.contact_form button {
+    width: 180px;
+    padding: 18px 24px;
+    border: none;
+    
+    background: #2d2d2d;
+    color: #fff;
+    font-family: "Epilogue", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+}
+
+.contact_form button:hover {
+    opacity: 0.9;
+}
+
+/* contact end*/ 
