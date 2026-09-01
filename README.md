@@ -2,12 +2,6 @@
 
 A modern personal portfolio landing page built with HTML and CSS. This project presents a clean visual design for a creative professional, including branding, services, featured work, testimonials, and a contact section.
 
-## Project Preview
-
-<p align="center">
-  <img src="./images/mokup.png" alt="Portfolio website preview" width="500" />
-</p>
-
 ## Live Preview
 Open `index.html` in the browser to view the site locally.
 
